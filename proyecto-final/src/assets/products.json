@@ -1,0 +1,62 @@
+[
+    {
+    "nombre": "Apple iPhone 13 Pro",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Apple+iPhone+13+Pro",
+    "precio": "1199.99"
+    },
+    {
+    "nombre": "Samsung Galaxy S21 Ultra 5G",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Samsung+Galaxy+S21+Ultra+5G",
+    "precio": 1099.99
+    },
+    {
+    "nombre": "Apple iPhone 12 Pro Max",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Apple+iPhone+12+Pro+Max",
+    "precio": 1099.99
+    },
+    {
+    "nombre": "Samsung Galaxy Note 20 Ultra 5G",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Samsung+Galaxy+Note+20+Ultra+5G",
+    "precio": 1299.99
+    },
+    {
+    "nombre": "Apple iPhone SE (2020)",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Apple+iPhone+SE+(2020)",
+    "precio": 399.99
+    },
+    {
+    "nombre": "Samsung Galaxy A52 5G",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Samsung+Galaxy+A52+5G",
+    "precio": 499.99
+    },
+    {
+    "nombre": "Apple iPhone 11",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Apple+iPhone+11",
+    "precio": 599.99
+    },
+    {
+    "nombre": "Samsung Galaxy S20 FE 5G",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Samsung+Galaxy+S20+FE+5G",
+    "precio": 699.99
+    },
+    {
+    "nombre": "Apple iPhone XR",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Apple+iPhone+XR",
+    "precio": 499.99
+    },
+    {
+    "nombre": "Samsung Galaxy A32 5G",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Samsung+Galaxy+A32+5G",
+    "precio": 299.99
+    },
+    {
+    "nombre": "Apple iPhone SE (2016)",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Apple+iPhone+SE+(2016)",
+    "precio": 349.99
+    },
+    {
+    "nombre": "Samsung Galaxy S10 Lite",
+    "imagen": "https://via.placeholder.com/150x150.png?text=Samsung+Galaxy+S10+Lite",
+    "precio": 499.99
+    }
+]

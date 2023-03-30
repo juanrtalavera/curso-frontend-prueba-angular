@@ -1,0 +1,13 @@
+.container {
+    margin-top: 2rem;
+  }
+  
+  .card {
+    margin-bottom: 1rem;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  

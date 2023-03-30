@@ -1,0 +1,8 @@
+<div class="products-gallery">
+    <div class="product" *ngFor="let producto of productos">
+      <img [src]="'assets/' + producto.imagen" alt="{{producto.nombre}}">
+      <h3>{{producto.nombre}}</h3>
+      <p>{{producto.precio | currency:'USD'}}</p>
+    </div>
+  </div>
+  

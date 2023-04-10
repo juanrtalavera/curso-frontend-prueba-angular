@@ -13,8 +13,9 @@ export class ProductsGalleryComponent implements OnInit {
   constructor(private productosService: ProductosService) { }
 
   ngOnInit(): void {
-    this.productosService.getProducts().subscribe(productos => {
+    this.productosService.getProducts().subscribe((productos: Product[]) => {
       this.productos = productos;
     });
   }
 }
+

@@ -39,7 +39,7 @@ export class AddProductComponent implements OnInit {
     }
   }
 
-  private addProduct(): Product {
+  public addProduct(): { id: number, title: string, price: number, imageUrl: string } {
     return {
       id: 0,
       title: this.addForm.controls['nombre'].value,
@@ -48,4 +48,3 @@ export class AddProductComponent implements OnInit {
     };
   }
 }
-

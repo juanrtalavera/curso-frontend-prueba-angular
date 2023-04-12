@@ -27,7 +27,8 @@ export class ProductosService {
   deleteProduct(product: Product): Observable<Product> {
     const url = `${this.productsUrl}/${product.id}`;
     return this.http.delete<Product>(url);
-  }
+  }  
+
   saveProducts(products: Product[]): Observable<Product[]> {
     return this.http.put<Product[]>(this.productsUrl, products);
   }  

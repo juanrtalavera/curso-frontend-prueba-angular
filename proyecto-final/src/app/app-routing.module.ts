@@ -6,10 +6,10 @@ import { LoginComponent } from './login/login.component';
 import { AddProductComponent } from './add-product/add-product.component';
 
 const routes: Routes = [
-  { path: '/', component: HomeComponent },
-  { path: '/products', component: ProductsGalleryComponent },
-  { path: '/login', component: LoginComponent },
-  { path: '/add-product', component: AddProductComponent },
+  { path: '', component: HomeComponent },
+  { path: 'products', component: ProductsGalleryComponent },
+  { path: 'login', component: LoginComponent },
+  { path: 'add-product', component: AddProductComponent },
 ];
 
 @NgModule({
